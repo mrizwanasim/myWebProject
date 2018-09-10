@@ -1,0 +1,117 @@
+.myBoarder{
+	border: 1px solid;				/*Showing Borders of Area if Needed*/
+}
+
+.main{
+	background: #0f1b34;			/*Main Background Color*/
+}
+
+.heading{
+	font-weight: bold;				/*Title of the Web*/
+}
+
+.menu > li:hover{ 
+	background: #337ab7;			/*Color Effects of the selections of "Home Bar"*/
+}
+
+.menu{
+/*	padding: 1px;					Home menu will be Paddings*/
+}
+
+.side{
+	margin-top: 10px;				/*Side bar of the web color and Margin*/
+	background: #333;
+	border-radius: 4px;
+}
+
+.colorSettingsSideBar > span{
+	font-weight: bold;				/*Side bar color settings and Font settings*/
+	color: white;
+}
+
+.sidePicSize{
+	width: 150px; 					/*Side bar Picture size settings*/
+	height: 125px;
+}
+
+.sidePost{
+	font-size: 12px;
+	font-weight: bold;
+}
+.sidePost > a:hover{
+	text-decoration: none;
+}
+
+.cat{
+	margin: 6px;
+	padding: 5px;
+}
+
+.cat >a{
+	color: rgba(92, 88, 88);
+	padding: 5px;
+	border-radius: 3px;
+	background: rgba(17, 17, 17, 0.19);
+	float: left;							/*This will automatically put new "Catagory" into left*/
+	margin: 2px;
+}
+
+.cat >a:hover{
+	text-decoration: none;
+	background: rgba(181,174,175,1.00)
+}
+
+.homeMargin{
+/*	margin: 10px;*/
+}
+
+.mainPictureStyle{
+	padding: 15px;
+}
+
+.post{
+	margin: 5px;
+	margin-top: 40px;
+}
+
+.footerStyleLeft >a{
+	margin-top: 10px;
+	color:#BCBCBC ;
+	float: left;
+}
+
+
+.footerStyleLeft >a:hover{
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.footerStyleRight >a{
+	color: #BCBCBC ;
+	float: right;
+}
+
+.footerStyleRight >a:hover{
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.footerBoarder{
+	border: 0px solid;				/*Showing Borders of Area if Needed*/
+	background:#000000;
+	padding: 20px;
+}
+
+.myPageStyle{
+	background-color: #337ab7;
+}
+
+.fa-home:hover{
+	color: #337ab7;
+}
+
+.active {
+	color: #337ab7;					/*Purple color of the word "Cooker"*/
+}
