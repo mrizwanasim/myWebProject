@@ -15,6 +15,15 @@
  		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
-
+	<div class="row">
+		<div class="col-md-3">
+			<div class="heading">
+				<h3 style="text-align: center; font-weight: bold; color: white; ">Admin Panel</h3>
+			</div>
+		</div>
+		<div class="col-md-9">
+		
+		</div>
+	</div>
 </body>
 </html>
